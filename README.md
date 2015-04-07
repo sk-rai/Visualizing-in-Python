@@ -1,6 +1,10 @@
 #Making Beautiful Graphs in Python and Sharing Them
 
-This repo serves as a reference to the tutorial given by Plotly for PyCon 2015
+This repo serves as a reference to the tutorial given for PyCon 2015. Enjoy!
+
+##PyCon Tutorial Link
+
+https://us.pycon.org/2015/schedule/presentation/317/
 
 ##Presentation
 
