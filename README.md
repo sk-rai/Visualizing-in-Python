@@ -18,6 +18,7 @@ The presentation consists of ordered tutorials in the form of IPython/Jupyter no
 
 * [00_my_first_plot.ipynb](http://nbviewer.ipython.org/github/plotly/pycon-2015/blob/master/00_my_first_plot.ipynb)
 * [01_basics_to_data_analysis.ipynb](http://nbviewer.ipython.org/github/plotly/pycon-2015/blob/master/01_basics_to_data_analysis.ipynb)
+* [01_challenge.ipynb](http://nbviewer.ipython.org/github/plotly/pycon-2015/blob/master/01_challenge.ipynb)
 * [02_intro_to_matplotlib.ipynb](http://nbviewer.ipython.org/github/plotly/pycon-2015/blob/master/02_intro_to_matplotlib.ipynb)
 * [04_exploration_and_reproducibility.ipynb](http://nbviewer.ipython.org/github/plotly/pycon-2015/blob/master/04_exploration_and_reproducibility.ipynb)
 * [05_collaborative_workflows.ipynb](http://nbviewer.ipython.org/github/plotly/pycon-2015/blob/master/05_collaborative_workflows.ipynb)
