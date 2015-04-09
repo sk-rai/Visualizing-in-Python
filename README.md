@@ -6,6 +6,10 @@ This repo serves as a reference to the tutorial given for PyCon 2015. Enjoy!
 
 https://us.pycon.org/2015/schedule/presentation/317/
 
+##PyCon Tutortial Survey Link
+
+https://guidebook.com/guide/31995/event/10594314/
+
 ##Presentation
 
 You can find the full presentation here:
